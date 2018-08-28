@@ -1,0 +1,11 @@
+c:\users\keebler\source\repos\LDSFormsApp\LDSFormsApp.Data\bin\Debug\netcoreapp2.0\LDSFormsApp.Data.deps.json
+c:\users\keebler\source\repos\LDSFormsApp\LDSFormsApp.Data\bin\Debug\netcoreapp2.0\LDSFormsApp.Data.dll
+c:\users\keebler\source\repos\LDSFormsApp\LDSFormsApp.Data\obj\Debug\netcoreapp2.0\LDSFormsApp.Data.csprojResolveAssemblyReference.cache
+c:\users\keebler\source\repos\LDSFormsApp\LDSFormsApp.Data\obj\Debug\netcoreapp2.0\LDSFormsApp.Data.csproj.CoreCompileInputs.cache
+c:\users\keebler\source\repos\LDSFormsApp\LDSFormsApp.Data\obj\Debug\netcoreapp2.0\LDSFormsApp.Data.AssemblyInfoInputs.cache
+c:\users\keebler\source\repos\LDSFormsApp\LDSFormsApp.Data\obj\Debug\netcoreapp2.0\LDSFormsApp.Data.AssemblyInfo.cs
+c:\users\keebler\source\repos\LDSFormsApp\LDSFormsApp.Data\bin\Debug\netcoreapp2.0\LDSFormsApp.Data.runtimeconfig.json
+c:\users\keebler\source\repos\LDSFormsApp\LDSFormsApp.Data\bin\Debug\netcoreapp2.0\LDSFormsApp.Data.runtimeconfig.dev.json
+c:\users\keebler\source\repos\LDSFormsApp\LDSFormsApp.Data\bin\Debug\netcoreapp2.0\LDSFormsApp.Data.pdb
+c:\users\keebler\source\repos\LDSFormsApp\LDSFormsApp.Data\obj\Debug\netcoreapp2.0\LDSFormsApp.Data.dll
+c:\users\keebler\source\repos\LDSFormsApp\LDSFormsApp.Data\obj\Debug\netcoreapp2.0\LDSFormsApp.Data.pdb
